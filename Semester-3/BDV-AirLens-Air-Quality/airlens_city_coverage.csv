@@ -1,0 +1,327 @@
+state,city,location,latitude,longitude,records,first_date,last_date,years_covered,calendar_days,missing_days,coverage_pct,longest_gap,coverage_level,avg_stations_reporting
+Andaman and Nicobar Islands,Sri Vijaya Puram,"Sri Vijaya Puram, Andaman and Nicobar Islands",11.6661,92.7464,104,2025-02-20,2026-02-26,2,372,268,27.96,87,Low,1.0
+Andhra Pradesh,Amaravati,"Amaravati, Andhra Pradesh",16.54,80.52,2962,2017-12-01,2026-09-17,10,3213,251,92.19,38,High,1.0
+Andhra Pradesh,Anantapur,"Anantapur, Andhra Pradesh",14.6778,77.6081,1230,2022-08-27,2026-09-17,5,1483,253,82.94,11,High,1.0
+Andhra Pradesh,Chittoor,"Chittoor, Andhra Pradesh",13.2105,79.0956,1106,2022-11-22,2026-09-17,5,1396,290,79.23,57,High,1.0
+Andhra Pradesh,Eluru,"Eluru, Andhra Pradesh",16.7131,81.1044,181,2026-03-12,2026-09-17,1,190,9,95.26,3,Medium,1.0
+Andhra Pradesh,Guntur,"Guntur, Andhra Pradesh",16.2997,80.4573,186,2026-03-12,2026-09-17,1,190,4,97.89,2,Medium,1.0
+Andhra Pradesh,Kadapa,"Kadapa, Andhra Pradesh",14.48,78.8235,1039,2023-01-25,2026-09-17,4,1332,293,78.0,13,High,1.0
+Andhra Pradesh,Kakinada,"Kakinada, Andhra Pradesh",16.9604,82.2381,44,2026-07-25,2026-09-17,1,55,11,80.0,5,Limited,1.0
+Andhra Pradesh,Kurnool,"Kurnool, Andhra Pradesh",15.8289,78.036,66,2026-07-04,2026-09-17,1,76,10,86.84,4,Limited,1.0
+Andhra Pradesh,Machilipatnam,"Machilipatnam, Andhra Pradesh",16.1875,81.1389,180,2026-03-12,2026-09-17,1,190,10,94.74,2,Low,1.0
+Andhra Pradesh,Nellore,"Nellore, Andhra Pradesh",14.4499,79.987,158,2026-03-19,2026-09-17,1,183,25,86.34,8,Low,1.0
+Andhra Pradesh,Rajamahendravaram,"Rajamahendravaram, Andhra Pradesh",17.0052,81.7778,3158,2017-09-13,2026-09-17,10,3292,134,95.93,9,High,1.0
+Andhra Pradesh,Srikakulam,"Srikakulam, Andhra Pradesh",18.2989,83.8975,27,2026-07-25,2026-09-05,1,43,16,62.79,14,Limited,1.0
+Andhra Pradesh,Tirumala,"Tirumala, Andhra Pradesh",13.6355,79.4199,590,2025-01-21,2026-09-17,2,605,15,97.52,2,High,1.0
+Andhra Pradesh,Tirupati,"Tirupati, Andhra Pradesh",13.6355,79.4199,3303,2016-07-12,2026-09-15,11,3718,415,88.84,15,High,1.16
+Andhra Pradesh,Vijayawada,"Vijayawada, Andhra Pradesh",16.5074,80.6466,1848,2017-05-03,2026-09-17,7,3425,1577,53.96,1186,High,2.24
+Andhra Pradesh,Visakhapatnam,"Visakhapatnam, Andhra Pradesh",17.7331,83.3162,3386,2016-07-12,2026-09-17,11,3720,334,91.02,12,High,1.05
+Arunachal Pradesh,Naharlagun,"Naharlagun, Arunachal Pradesh",27.1047,93.6952,1031,2021-03-27,2026-09-17,6,2001,970,51.52,34,High,1.0
+Assam,Byrnihat (Assam),"Byrnihat (Assam), Assam",26.05,91.86,149,2026-03-31,2026-09-17,1,171,22,87.13,4,Low,1.0
+Assam,Guwahati,"Guwahati, Assam",26.1844,91.7458,2733,2019-02-19,2026-09-17,8,2768,35,98.74,9,High,2.43
+Assam,Nagaon,"Nagaon, Assam",26.35,92.6667,1173,2023-02-08,2026-09-17,4,1318,145,89.0,9,High,1.0
+Assam,Nalbari,"Nalbari, Assam",26.4394,91.4404,1179,2022-11-24,2026-09-17,5,1394,215,84.58,8,High,1.0
+Assam,Silchar,"Silchar, Assam",24.8273,92.7979,1247,2023-03-13,2026-09-17,4,1285,38,97.04,2,High,1.0
+Assam,Sivasagar,"Sivasagar, Assam",26.98,94.64,1391,2022-09-30,2026-09-17,5,1449,58,96.0,14,High,1.0
+Bihar,Araria,"Araria, Bihar",26.1493,87.5132,1371,2021-12-17,2026-09-17,6,1736,365,78.97,15,High,1.0
+Bihar,Arrah,"Arrah, Bihar",25.5563,84.6633,1347,2021-12-17,2026-09-17,6,1736,389,77.59,14,High,1.0
+Bihar,Aurangabad (Bihar),"Aurangabad (Bihar), Bihar",24.752,84.3742,1113,2022-05-06,2026-08-29,5,1577,464,70.58,47,High,1.0
+Bihar,Begusarai,"Begusarai, Bihar",25.4185,86.1339,1024,2022-04-05,2026-09-17,5,1627,603,62.94,228,High,1.0
+Bihar,Bettiah,"Bettiah, Bihar",26.8023,84.5031,1266,2021-07-18,2026-09-17,6,1888,622,67.06,105,High,1.0
+Bihar,Bhagalpur,"Bhagalpur, Bihar",25.2445,86.9718,1692,2021-11-23,2026-09-17,6,1760,68,96.14,4,High,1.84
+Bihar,Bihar Sharif,"Bihar Sharif, Bihar",25.2008,85.5239,1260,2021-07-23,2026-09-15,6,1881,621,66.99,111,High,1.0
+Bihar,Buxar,"Buxar, Bihar",25.5755,83.9804,968,2021-12-01,2026-08-16,5,1720,752,56.28,429,High,1.0
+Bihar,Chhapra,"Chhapra, Bihar",25.7803,84.7471,1421,2021-11-23,2026-09-17,6,1760,339,80.74,20,High,1.0
+Bihar,Darbhanga,"Darbhanga, Bihar",26.1522,85.8971,407,2021-07-18,2023-01-14,3,546,139,74.54,94,High,1.0
+Bihar,Gaya,"Gaya, Bihar",24.7969,85.0038,3458,2016-01-01,2026-09-17,11,3913,455,88.37,120,High,1.96
+Bihar,Hajipur,"Hajipur, Bihar",25.6854,85.2098,2191,2020-03-04,2026-09-17,7,2389,198,91.71,6,High,1.0
+Bihar,Katihar,"Katihar, Bihar",25.5385,87.5704,1480,2021-11-23,2026-09-17,6,1760,280,84.09,13,High,1.0
+Bihar,Kishanganj,"Kishanganj, Bihar",26.1022,87.9553,1458,2021-11-23,2026-09-17,6,1760,302,82.84,10,High,1.0
+Bihar,Manguraha,"Manguraha, Bihar",27.3,84.35,1057,2022-01-02,2026-09-17,5,1720,663,61.45,42,High,1.0
+Bihar,Motihari,"Motihari, Bihar",26.6486,84.9166,1437,2021-07-18,2026-09-17,6,1888,451,76.11,94,High,1.0
+Bihar,Munger,"Munger, Bihar",25.3746,86.4745,1479,2021-11-13,2026-09-16,6,1769,290,83.61,10,High,1.0
+Bihar,Muzaffarpur,"Muzaffarpur, Bihar",26.1226,85.3906,3545,2016-01-01,2026-09-17,11,3913,368,90.6,64,High,1.91
+Bihar,Patna,"Patna, Bihar",25.5941,85.1356,3531,2016-01-01,2026-09-17,11,3913,382,90.24,21,High,4.01
+Bihar,Purnia,"Purnia, Bihar",25.7789,87.4742,1424,2021-11-23,2026-09-17,6,1760,336,80.91,18,High,1.0
+Bihar,Rajgir,"Rajgir, Bihar",25.0283,85.4208,1252,2021-11-24,2026-09-17,6,1759,507,71.18,38,High,1.0
+Bihar,Saharsa,"Saharsa, Bihar",25.875,86.5961,1415,2021-11-23,2026-09-16,6,1759,344,80.44,17,High,1.0
+Bihar,Samastipur,"Samastipur, Bihar",25.8622,85.7795,1243,2022-03-24,2026-09-09,5,1631,388,76.21,12,High,1.0
+Bihar,Sasaram,"Sasaram, Bihar",24.9494,84.0165,1369,2021-11-13,2026-09-17,6,1770,401,77.34,34,High,1.0
+Bihar,Siwan,"Siwan, Bihar",26.221,84.3561,1174,2021-11-23,2026-09-04,6,1747,573,67.2,22,High,1.0
+Chandigarh,Chandigarh,"Chandigarh, Chandigarh",30.7363,76.7884,2545,2019-09-17,2026-09-17,8,2558,13,99.49,2,High,2.23
+Chhattisgarh,Bhilai,"Bhilai, Chhattisgarh",21.2092,81.4285,1433,2021-11-18,2026-09-17,6,1765,332,81.19,95,High,2.58
+Chhattisgarh,Bilaspur,"Bilaspur, Chhattisgarh",22.08,82.1554,1556,2021-09-23,2026-09-17,6,1821,265,85.45,32,High,1.0
+Chhattisgarh,Chhal,"Chhal, Chhattisgarh",22.11,83.12,1029,2023-03-13,2026-09-17,4,1285,256,80.08,56,High,1.0
+Chhattisgarh,Korba,"Korba, Chhattisgarh",22.3458,82.6963,1316,2022-10-26,2026-09-17,5,1423,107,92.48,67,High,1.74
+Chhattisgarh,Kunjemura,"Kunjemura, Chhattisgarh",22.09,83.36,1100,2023-03-13,2026-09-17,4,1285,185,85.6,13,High,1.0
+Chhattisgarh,Milupara,"Milupara, Chhattisgarh",22.13,83.33,715,2023-03-14,2026-09-17,4,1284,569,55.69,65,High,1.0
+Chhattisgarh,Raipur,"Raipur, Chhattisgarh",21.2333,81.6333,1352,2022-10-26,2026-09-17,5,1423,71,95.01,67,High,3.59
+Chhattisgarh,Tumidih,"Tumidih, Chhattisgarh",22.1,82.63,810,2023-03-13,2026-09-17,4,1285,475,63.04,29,High,1.0
+Delhi,Delhi,"Delhi, Delhi",28.6519,77.2315,3898,2016-01-01,2026-09-17,11,3913,15,99.62,5,High,28.99
+Gujarat,Ahmedabad,"Ahmedabad, Gujarat",23.0258,72.5873,3383,2016-06-28,2026-09-17,11,3734,351,90.6,231,High,4.38
+Gujarat,Ankleshwar,"Ankleshwar, Gujarat",21.6324,72.99,2357,2019-02-05,2026-09-17,8,2782,425,84.72,18,High,1.0
+Gujarat,Bhavnagar,"Bhavnagar, Gujarat",21.7629,72.1533,213,2026-02-14,2026-09-17,1,216,3,98.61,1,Medium,1.0
+Gujarat,Gandhinagar,"Gandhinagar, Gujarat",23.2167,72.6833,2689,2019-02-05,2026-09-17,8,2782,93,96.66,12,High,2.03
+Gujarat,Mehsana,"Mehsana, Gujarat",23.5986,72.3847,212,2026-02-14,2026-09-17,1,216,4,98.15,2,Medium,1.0
+Gujarat,Nandesari,"Nandesari, Gujarat",22.4062,73.0952,1186,2020-02-26,2026-09-17,7,2396,1210,49.5,72,High,1.0
+Gujarat,Rajkot,"Rajkot, Gujarat",22.2916,70.7932,224,2026-01-31,2026-09-17,1,230,6,97.39,1,Medium,1.0
+Gujarat,Surat,"Surat, Gujarat",21.1959,72.8302,1154,2022-11-04,2026-09-17,5,1414,260,81.61,18,High,1.18
+Gujarat,Vadodara,"Vadodara, Gujarat",22.2994,73.2081,228,2026-01-31,2026-09-17,1,230,2,99.13,1,Medium,1.0
+Gujarat,Vapi,"Vapi, Gujarat",20.3717,72.9049,2209,2019-02-14,2026-09-12,8,2768,559,79.8,127,High,1.0
+Gujarat,Vatva,"Vatva, Gujarat",22.96,72.63,2627,2019-02-06,2026-09-17,8,2781,154,94.46,12,High,1.0
+Haryana,Ambala,"Ambala, Haryana",30.361,76.7978,2330,2019-01-23,2026-09-17,8,2795,465,83.36,287,High,1.0
+Haryana,Bahadurgarh,"Bahadurgarh, Haryana",28.6929,76.9356,2331,2019-01-07,2026-09-17,8,2811,480,82.92,286,High,1.0
+Haryana,Ballabgarh,"Ballabgarh, Haryana",28.34,77.32,2327,2019-01-29,2026-09-15,8,2787,460,83.49,292,High,1.0
+Haryana,Bhiwani,"Bhiwani, Haryana",28.793,76.1397,2314,2019-01-09,2026-09-17,8,2809,495,82.38,285,High,1.0
+Haryana,Charkhi Dadri,"Charkhi Dadri, Haryana",28.5917,76.2716,1939,2020-04-23,2026-09-17,7,2339,400,82.9,185,High,1.0
+Haryana,Dharuhera,"Dharuhera, Haryana",28.2055,76.7969,2094,2019-01-22,2026-09-17,8,2796,702,74.89,293,High,1.0
+Haryana,Faridabad,"Faridabad, Haryana",28.4112,77.3132,3507,2016-01-01,2026-09-17,11,3913,406,89.62,177,High,2.28
+Haryana,Fatehabad,"Fatehabad, Haryana",29.5153,75.4555,2088,2019-01-22,2026-09-17,8,2796,708,74.68,297,High,1.0
+Haryana,Gurugram,"Gurugram, Haryana",28.4601,77.0263,3610,2016-01-23,2026-09-17,11,3891,281,92.78,22,High,2.46
+Haryana,Hisar,"Hisar, Haryana",29.1539,75.7229,2135,2019-01-28,2026-09-17,8,2790,655,76.52,306,High,1.0
+Haryana,Jind,"Jind, Haryana",29.3158,76.315,2290,2019-02-05,2026-09-16,8,2781,491,82.34,288,High,1.0
+Haryana,Kaithal,"Kaithal, Haryana",29.8015,76.3996,2325,2019-02-19,2026-09-17,8,2768,443,84.0,292,High,1.0
+Haryana,Karnal,"Karnal, Haryana",29.692,76.9845,2350,2019-01-28,2026-09-17,8,2790,440,84.23,289,High,1.0
+Haryana,Kurukshetra,"Kurukshetra, Haryana",29.97,76.85,2425,2019-01-09,2026-09-17,8,2809,384,86.33,285,High,1.0
+Haryana,Mandikhera,"Mandikhera, Haryana",27.89,77.02,2242,2019-02-05,2026-09-08,8,2773,531,80.85,290,High,1.0
+Haryana,Manesar,"Manesar, Haryana",28.3531,76.9404,2301,2018-12-12,2026-09-17,9,2837,536,81.11,289,High,1.0
+Haryana,Narnaul,"Narnaul, Haryana",28.0444,76.1083,2210,2019-02-05,2026-09-17,8,2782,572,79.44,284,High,1.0
+Haryana,Palwal,"Palwal, Haryana",28.1447,77.3255,2268,2019-01-09,2026-09-17,8,2809,541,80.74,286,High,1.0
+Haryana,Panchgaon,"Panchgaon, Haryana",28.33,76.94,476,2025-04-02,2026-09-17,2,534,58,89.14,5,High,1.0
+Haryana,Panchkula,"Panchkula, Haryana",30.6946,76.8504,3137,2016-01-01,2026-09-17,11,3913,776,80.17,253,High,1.0
+Haryana,Panipat,"Panipat, Haryana",29.3875,76.9682,2118,2019-01-10,2026-09-17,8,2808,690,75.43,288,High,1.0
+Haryana,Rohtak,"Rohtak, Haryana",28.8945,76.5892,3073,2016-01-16,2026-09-17,11,3898,825,78.84,245,High,1.0
+Haryana,Sirsa,"Sirsa, Haryana",29.5349,75.029,2275,2019-01-28,2026-09-17,8,2790,515,81.54,286,High,1.0
+Haryana,Sonipat,"Sonipat, Haryana",28.9948,77.0194,2031,2019-01-09,2026-09-17,8,2809,778,72.3,304,High,1.0
+Haryana,Yamunanagar,"Yamunanagar, Haryana",30.128,77.2837,2249,2019-01-07,2026-09-17,8,2811,562,80.01,300,High,1.0
+Himachal Pradesh,Baddi,"Baddi, Himachal Pradesh",30.9578,76.7914,1578,2022-03-12,2026-09-17,5,1651,73,95.58,8,High,1.0
+Jammu and Kashmir,Pampore,"Pampore, Jammu and Kashmir",34.0151,74.9189,217,2025-12-22,2026-09-15,2,268,51,80.97,10,Medium,1.0
+Jammu and Kashmir,Srinagar,"Srinagar, Jammu and Kashmir",34.0857,74.8055,1092,2021-02-10,2026-09-16,5,2045,953,53.4,749,High,1.2
+Jharkhand,Dhanbad,"Dhanbad, Jharkhand",23.7976,86.4299,948,2023-02-28,2026-09-17,4,1298,350,73.04,97,High,1.08
+Jharkhand,Jorapokhar,"Jorapokhar, Jharkhand",23.7,86.41,1224,2017-05-20,2026-09-17,10,3408,2184,35.92,420,High,1.0
+Jharkhand,Pathardih,"Pathardih, Jharkhand",23.6658,86.4317,26,2024-03-01,2024-08-23,1,176,150,14.77,73,Limited,1.0
+Karnataka,Bagalkot,"Bagalkot, Karnataka",16.1867,75.6961,2063,2020-02-11,2026-08-12,7,2375,312,86.86,54,High,1.0
+Karnataka,Belgaum,"Belgaum, Karnataka",15.8521,74.5045,1005,2022-08-09,2026-08-29,5,1482,477,67.81,58,High,1.0
+Karnataka,Bengaluru,"Bengaluru, Karnataka",12.9719,77.5937,3883,2016-01-01,2026-09-17,11,3913,30,99.23,6,High,7.87
+Karnataka,Bidar,"Bidar, Karnataka",17.908,77.5152,860,2021-01-04,2026-04-10,6,1923,1063,44.72,131,High,1.0
+Karnataka,Chamarajanagar,"Chamarajanagar, Karnataka",11.9231,76.9395,1951,2020-11-14,2026-09-17,7,2134,183,91.42,22,High,1.0
+Karnataka,Chikkaballapur,"Chikkaballapur, Karnataka",13.43,77.73,2624,2018-07-05,2026-09-17,9,2997,373,87.55,102,High,1.0
+Karnataka,Chikkamagaluru,"Chikkamagaluru, Karnataka",13.3223,75.774,1965,2020-02-03,2026-09-16,7,2418,453,81.27,32,High,1.0
+Karnataka,Davanagere,"Davanagere, Karnataka",14.46,75.92,1458,2021-02-03,2026-08-28,6,2033,575,71.72,171,High,1.0
+Karnataka,Dharwad,"Dharwad, Karnataka",15.46,75.01,1064,2022-11-22,2026-09-17,5,1396,332,76.22,109,High,1.0
+Karnataka,Gadag,"Gadag, Karnataka",15.4298,75.6297,1306,2021-01-04,2026-09-15,6,2081,775,62.76,167,High,1.0
+Karnataka,Hassan,"Hassan, Karnataka",13.0071,76.0962,1146,2021-03-27,2025-10-31,5,1680,534,68.21,47,High,1.0
+Karnataka,Haveri,"Haveri, Karnataka",14.7935,75.4045,883,2022-04-12,2025-12-16,4,1345,462,65.65,40,High,1.0
+Karnataka,Hubballi,"Hubballi, Karnataka",15.3478,75.1338,2491,2018-09-21,2026-09-17,9,2919,428,85.34,51,High,1.2
+Karnataka,Kalaburagi,"Kalaburagi, Karnataka",17.3358,76.8376,2261,2018-08-02,2026-09-17,9,2969,708,76.15,146,High,1.26
+Karnataka,Karwar,"Karwar, Karnataka",14.8136,74.1297,424,2023-12-21,2026-09-12,4,997,573,42.53,252,High,1.0
+Karnataka,Kolar,"Kolar, Karnataka",13.1377,78.13,810,2021-01-13,2025-03-20,5,1528,718,53.01,141,High,1.0
+Karnataka,Koppal,"Koppal, Karnataka",15.3452,76.1548,1455,2020-12-20,2026-07-22,7,2041,586,71.29,54,High,1.0
+Karnataka,Madikeri,"Madikeri, Karnataka",12.426,75.7382,2028,2020-11-09,2026-09-17,7,2139,111,94.81,6,High,1.0
+Karnataka,Mangalore,"Mangalore, Karnataka",12.9172,74.856,1625,2021-01-04,2026-08-24,6,2059,434,78.92,68,High,1.0
+Karnataka,Mysuru,"Mysuru, Karnataka",12.2979,76.6393,2328,2019-07-29,2026-09-17,8,2608,280,89.26,32,High,1.0
+Karnataka,Raichur,"Raichur, Karnataka",16.2055,77.3557,1046,2020-12-17,2025-03-07,6,1542,496,67.83,33,High,1.0
+Karnataka,Ramanagara,"Ramanagara, Karnataka",12.72,77.28,2134,2019-09-23,2026-09-17,8,2552,418,83.62,60,High,1.0
+Karnataka,Shivamogga,"Shivamogga, Karnataka",13.9316,75.5679,1990,2020-11-10,2026-09-17,7,2138,148,93.08,14,High,1.0
+Karnataka,Tumakuru,"Tumakuru, Karnataka",13.3414,77.1022,745,2023-04-02,2026-08-10,4,1227,482,60.72,53,High,1.0
+Karnataka,Udupi,"Udupi, Karnataka",13.3347,74.7462,747,2021-02-11,2026-04-11,6,1886,1139,39.61,222,High,1.0
+Karnataka,Vijayapura,"Vijayapura, Karnataka",16.8244,75.7154,1997,2020-01-21,2026-09-09,7,2424,427,82.38,65,High,1.0
+Karnataka,Yadgir,"Yadgir, Karnataka",16.7701,77.1376,2108,2019-09-23,2026-09-17,8,2552,444,82.6,95,High,1.0
+Kerala,Eloor,"Eloor, Kerala",10.0667,76.2833,2006,2019-05-29,2026-09-17,8,2669,663,75.16,128,High,1.0
+Kerala,Ernakulam,"Ernakulam, Kerala",9.9399,76.2602,827,2020-02-05,2022-11-19,3,1019,192,81.16,12,High,1.0
+Kerala,Kannur,"Kannur, Kerala",11.8675,75.3576,1917,2020-02-11,2026-09-07,7,2401,484,79.84,120,High,1.0
+Kerala,Kochi,"Kochi, Kerala",9.9399,76.2602,1186,2020-02-05,2024-03-13,5,1499,313,79.12,30,High,1.0
+Kerala,Kollam,"Kollam, Kerala",8.8811,76.5847,1754,2020-03-03,2026-07-21,7,2332,578,75.21,48,High,1.0
+Kerala,Kozhikode,"Kozhikode, Kerala",11.248,75.7804,998,2020-02-05,2023-03-15,4,1135,137,87.93,13,High,1.0
+Kerala,Thiruvananthapuram,"Thiruvananthapuram, Kerala",8.4855,76.9492,3285,2017-07-13,2026-09-17,10,3354,69,97.94,8,High,1.58
+Kerala,Thrissur,"Thrissur, Kerala",10.5167,76.2167,1702,2020-10-13,2026-09-16,7,2165,463,78.61,13,High,1.0
+Ladakh,Leh,"Leh, Ladakh",34.165,77.584,22,2026-08-11,2026-09-17,1,38,16,57.89,16,Limited,1.0
+Madhya Pradesh,Bhopal,"Bhopal, Madhya Pradesh",23.2547,77.4029,2512,2019-09-23,2026-09-17,8,2552,40,98.43,11,High,2.03
+Madhya Pradesh,Damoh,"Damoh, Madhya Pradesh",23.8331,79.4419,2180,2019-01-08,2026-09-17,8,2810,630,77.58,149,High,1.0
+Madhya Pradesh,Dewas,"Dewas, Madhya Pradesh",22.9658,76.0553,3033,2017-11-25,2026-09-17,10,3219,186,94.22,6,High,1.0
+Madhya Pradesh,Gwalior,"Gwalior, Madhya Pradesh",26.2298,78.1734,2370,2020-02-03,2026-09-17,7,2419,49,97.97,6,High,2.33
+Madhya Pradesh,Indore,"Indore, Madhya Pradesh",22.7179,75.8333,2520,2019-09-23,2026-09-17,8,2552,32,98.75,7,High,2.26
+Madhya Pradesh,Jabalpur,"Jabalpur, Madhya Pradesh",23.167,79.9501,2505,2019-09-23,2026-09-17,8,2552,47,98.16,4,High,2.13
+Madhya Pradesh,Katni,"Katni, Madhya Pradesh",23.8378,80.394,2454,2019-09-23,2026-09-17,8,2552,98,96.16,31,High,1.0
+Madhya Pradesh,Maihar,"Maihar, Madhya Pradesh",24.2659,80.7606,1893,2019-02-11,2026-09-17,8,2776,883,68.19,116,High,1.0
+Madhya Pradesh,Mandideep,"Mandideep, Madhya Pradesh",23.0817,77.5333,3009,2018-01-02,2026-09-17,9,3181,172,94.59,21,High,1.0
+Madhya Pradesh,Pithampur,"Pithampur, Madhya Pradesh",22.602,75.6965,3166,2017-11-25,2026-09-17,10,3219,53,98.35,6,High,1.0
+Madhya Pradesh,Ratlam,"Ratlam, Madhya Pradesh",23.3303,75.0403,2501,2019-01-03,2026-09-17,8,2815,314,88.85,28,High,1.0
+Madhya Pradesh,Sagar,"Sagar, Madhya Pradesh",23.8388,78.7387,2267,2020-02-05,2026-09-17,7,2417,150,93.79,10,High,1.39
+Madhya Pradesh,Satna,"Satna, Madhya Pradesh",24.5773,80.8272,2844,2018-02-04,2026-09-17,9,3148,304,90.34,59,High,1.0
+Madhya Pradesh,Singrauli,"Singrauli, Madhya Pradesh",24.1997,82.6753,2850,2017-12-08,2026-09-17,10,3206,356,88.9,9,High,1.0
+Madhya Pradesh,Ujjain,"Ujjain, Madhya Pradesh",23.1824,75.7764,2759,2017-11-25,2026-09-17,10,3219,460,85.71,250,High,1.0
+Maharashtra,Ahmednagar,"Ahmednagar, Maharashtra",19.0946,74.7384,826,2024-03-01,2026-09-17,3,931,105,88.72,5,High,1.0
+Maharashtra,Akola,"Akola, Maharashtra",20.7096,76.9981,1170,2023-06-13,2026-09-17,4,1193,23,98.07,3,High,1.0
+Maharashtra,Ambernath,"Ambernath, Maharashtra",19.2,73.19,169,2026-03-11,2026-09-17,1,191,22,88.48,4,Low,1.0
+Maharashtra,Amravati,"Amravati, Maharashtra",20.9333,77.75,1198,2023-06-01,2026-09-17,4,1205,7,99.42,1,High,1.96
+Maharashtra,Aurangabad (Maharashtra),"Aurangabad (Maharashtra), Maharashtra",19.8776,75.3423,3181,2016-09-07,2026-09-17,11,3663,482,86.84,21,High,1.61
+Maharashtra,Badlapur,"Badlapur, Maharashtra",19.1552,73.2655,1106,2023-06-17,2026-09-17,4,1189,83,93.02,5,High,1.0
+Maharashtra,Beed,"Beed, Maharashtra",18.9892,75.7563,84,2026-06-24,2026-09-17,1,86,2,97.67,1,Limited,1.0
+Maharashtra,Belapur,"Belapur, Maharashtra",19.02,73.04,1091,2023-06-20,2026-09-17,4,1186,95,91.99,8,High,1.0
+Maharashtra,Bhiwandi,"Bhiwandi, Maharashtra",19.3002,73.0588,1073,2023-06-21,2026-09-17,4,1185,112,90.55,4,High,1.0
+Maharashtra,Boisar,"Boisar, Maharashtra",19.8036,72.756,837,2024-03-01,2026-09-17,3,931,94,89.9,9,High,1.0
+Maharashtra,Chandrapur,"Chandrapur, Maharashtra",19.9508,79.2952,3725,2016-01-02,2026-09-17,11,3912,187,95.22,12,High,1.6
+Maharashtra,Dhule,"Dhule, Maharashtra",20.9013,74.7774,1075,2023-06-20,2026-09-17,4,1186,111,90.64,9,High,1.0
+Maharashtra,Dombivli,"Dombivli, Maharashtra",19.2167,73.0833,77,2026-06-25,2026-09-17,1,85,8,90.59,5,Limited,1.0
+Maharashtra,Hingoli,"Hingoli, Maharashtra",19.7146,77.1424,77,2026-06-24,2026-09-17,1,86,9,89.53,4,Limited,1.0
+Maharashtra,Jalgaon,"Jalgaon, Maharashtra",21.0029,75.566,1140,2023-06-13,2026-09-17,4,1193,53,95.56,4,High,1.0
+Maharashtra,Jalna,"Jalna, Maharashtra",19.841,75.8864,947,2023-06-13,2026-09-17,4,1193,246,79.38,21,High,1.0
+Maharashtra,Kalyan,"Kalyan, Maharashtra",19.2437,73.1355,2284,2019-06-27,2026-09-17,8,2640,356,86.52,29,High,1.16
+Maharashtra,Kolhapur,"Kolhapur, Maharashtra",16.6956,74.2317,1209,2023-04-25,2026-09-17,4,1242,33,97.34,4,High,1.79
+Maharashtra,Latur,"Latur, Maharashtra",18.3972,76.5678,1150,2023-05-23,2026-09-17,4,1214,64,94.73,5,High,1.0
+Maharashtra,Mahad,"Mahad, Maharashtra",18.0833,73.4167,1081,2023-06-27,2026-09-17,4,1179,98,91.69,4,High,1.0
+Maharashtra,Malegaon,"Malegaon, Maharashtra",20.5497,74.5346,842,2024-03-01,2026-09-17,3,931,89,90.44,8,High,1.0
+Maharashtra,Mira-Bhayandar,"Mira-Bhayandar, Maharashtra",19.3016,72.8511,827,2024-03-01,2026-09-17,3,931,104,88.83,8,High,1.0
+Maharashtra,Mumbai,"Mumbai, Maharashtra",19.0728,72.8826,3756,2016-01-01,2026-09-17,11,3913,157,95.99,19,High,12.94
+Maharashtra,Nagpur,"Nagpur, Maharashtra",21.1463,79.0849,3270,2016-04-05,2026-09-17,11,3818,548,85.65,56,High,2.02
+Maharashtra,Nanded,"Nanded, Maharashtra",19.1602,77.315,1046,2023-06-18,2026-09-17,4,1188,142,88.05,13,High,1.0
+Maharashtra,Nashik,"Nashik, Maharashtra",19.9973,73.791,3402,2016-05-19,2026-09-17,11,3774,372,90.14,9,High,1.96
+Maharashtra,Navi Mumbai,"Navi Mumbai, Maharashtra",19.0368,73.0158,3727,2016-01-01,2026-09-17,11,3913,186,95.25,16,High,2.96
+Maharashtra,Parbhani,"Parbhani, Maharashtra",19.2686,76.7708,967,2023-06-20,2026-09-17,4,1186,219,81.53,92,High,1.0
+Maharashtra,Pimpri-Chinchwad,"Pimpri-Chinchwad, Maharashtra",18.6187,73.8037,1096,2023-05-16,2026-09-17,4,1221,125,89.76,124,High,3.65
+Maharashtra,Pune,"Pune, Maharashtra",18.5196,73.8554,3587,2016-01-01,2026-09-17,11,3913,326,91.67,55,High,3.76
+Maharashtra,Sangli,"Sangli, Maharashtra",16.8544,74.5642,1060,2023-06-13,2026-09-17,4,1193,133,88.85,5,High,1.0
+Maharashtra,Satara,"Satara, Maharashtra",17.6859,73.9933,66,2026-06-24,2026-09-17,1,86,20,76.74,16,Limited,1.0
+Maharashtra,Solapur,"Solapur, Maharashtra",17.6715,75.9104,3292,2016-01-12,2026-09-17,11,3902,610,84.37,30,High,1.53
+Maharashtra,Thane,"Thane, Maharashtra",19.197,72.9635,3095,2016-09-01,2026-09-17,11,3669,574,84.36,68,High,1.43
+Maharashtra,Ulhasnagar,"Ulhasnagar, Maharashtra",19.2167,73.15,1109,2023-07-23,2026-09-17,4,1153,44,96.18,3,High,1.15
+Maharashtra,Virar,"Virar, Maharashtra",19.4559,72.8114,867,2024-03-01,2026-09-16,3,930,63,93.23,4,High,1.0
+Manipur,Imphal,"Imphal, Manipur",24.8081,93.9442,886,2022-04-19,2025-07-28,4,1197,311,74.02,144,High,1.46
+Meghalaya,Byrnihat,"Byrnihat, Meghalaya",26.04,91.87,886,2022-12-24,2026-07-10,5,1295,409,68.42,101,High,1.0
+Meghalaya,Byrnihat (Meghalaya),"Byrnihat (Meghalaya), Meghalaya",26.04,91.87,104,2026-03-31,2026-09-17,1,171,67,60.82,12,Low,1.0
+Meghalaya,Shillong,"Shillong, Meghalaya",25.5689,91.8831,1776,2019-09-17,2026-09-03,8,2544,768,69.81,55,High,1.17
+Mizoram,Aizawl,"Aizawl, Mizoram",23.7289,92.7179,1925,2020-03-19,2026-09-17,7,2374,449,81.09,110,High,1.0
+Nagaland,Kohima,"Kohima, Nagaland",25.6747,94.111,1932,2020-09-04,2026-09-17,7,2205,273,87.62,15,High,1.0
+Odisha,Angul,"Angul, Odisha",20.8409,85.1019,997,2023-10-26,2026-09-17,4,1058,61,94.23,4,High,1.0
+Odisha,Balasore,"Balasore, Odisha",21.4927,86.9335,1017,2023-10-24,2026-09-17,4,1060,43,95.94,3,High,1.0
+Odisha,Barbil,"Barbil, Odisha",22.1019,85.3775,1015,2023-11-03,2026-09-17,4,1050,35,96.67,2,High,1.0
+Odisha,Baripada,"Baripada, Odisha",21.9346,86.7285,1269,2022-11-27,2026-09-17,5,1391,122,91.23,5,High,1.0
+Odisha,Bhubaneswar,"Bhubaneswar, Odisha",20.2724,85.8338,1032,2023-11-02,2026-09-17,4,1051,19,98.19,2,High,1.91
+Odisha,Bileipada,"Bileipada, Odisha",22.03,85.42,1188,2022-11-27,2026-09-17,5,1391,203,85.41,5,High,1.0
+Odisha,Brajrajnagar,"Brajrajnagar, Odisha",21.8167,83.9167,2236,2018-02-15,2026-09-17,9,3137,901,71.28,57,High,1.0
+Odisha,Byasanagar,"Byasanagar, Odisha",20.9557,86.1264,979,2023-11-02,2026-09-17,4,1051,72,93.15,4,High,1.0
+Odisha,Cuttack,"Cuttack, Odisha",20.465,85.8793,988,2023-11-02,2026-09-17,4,1051,63,94.01,6,High,1.0
+Odisha,Jharsuguda,"Jharsuguda, Odisha",21.8553,84.007,1,2018-02-04,2018-02-04,1,1,0,100.0,0,Limited,1.0
+Odisha,Keonjhar,"Keonjhar, Odisha",21.6318,85.5969,1192,2022-11-27,2026-09-17,5,1391,199,85.69,20,High,1.0
+Odisha,Nayagarh,"Nayagarh, Odisha",20.1288,85.0963,1118,2022-11-27,2026-09-17,5,1391,273,80.37,63,High,1.0
+Odisha,Paradeep,"Paradeep, Odisha",20.3164,86.6085,8,2026-09-09,2026-09-17,1,9,1,88.89,1,Limited,1.0
+Odisha,Rairangpur,"Rairangpur, Odisha",22.2667,86.1739,1172,2022-11-27,2026-09-17,5,1391,219,84.26,46,High,1.0
+Odisha,Rourkela,"Rourkela, Odisha",22.225,84.8641,1367,2022-11-27,2026-09-16,5,1390,23,98.35,4,High,2.3
+Odisha,Suakati,"Suakati, Odisha",21.73,85.62,1099,2022-11-27,2026-07-29,5,1341,242,81.95,69,High,1.0
+Odisha,Talcher,"Talcher, Odisha",20.9493,85.2335,2519,2018-02-08,2026-09-17,9,3144,625,80.12,30,High,1.0
+Odisha,Tensa,"Tensa, Odisha",21.8728,85.1713,1110,2022-11-27,2026-09-14,5,1388,278,79.97,28,High,1.0
+Puducherry,Puducherry,"Puducherry, Puducherry",11.9338,79.8298,1943,2021-01-13,2026-09-17,6,2074,131,93.68,40,High,1.0
+Punjab,Amritsar,"Amritsar, Punjab",31.6223,74.8753,3188,2017-03-07,2026-09-17,10,3482,294,91.56,15,High,1.0
+Punjab,Bathinda,"Bathinda, Punjab",30.2075,74.9389,2637,2018-06-08,2026-09-17,9,3024,387,87.2,15,High,1.0
+Punjab,Jalandhar,"Jalandhar, Punjab",31.3256,75.5792,3076,2018-02-08,2026-09-17,9,3144,68,97.84,6,High,1.0
+Punjab,Khanna,"Khanna, Punjab",30.7055,76.222,2963,2018-04-18,2026-09-17,9,3075,112,96.36,4,High,1.0
+Punjab,Ludhiana,"Ludhiana, Punjab",30.912,75.8538,3244,2017-04-20,2026-09-17,10,3438,194,94.36,28,High,1.0
+Punjab,Mandi Gobindgarh,"Mandi Gobindgarh, Punjab",30.67,76.3,3070,2017-03-22,2026-09-17,10,3467,397,88.55,18,High,1.0
+Punjab,Patiala,"Patiala, Punjab",30.3362,76.3922,3058,2018-02-08,2026-09-17,9,3144,86,97.26,2,High,1.0
+Punjab,Rupnagar,"Rupnagar, Punjab",30.969,76.5269,2546,2018-05-03,2026-09-17,9,3060,514,83.2,80,High,1.0
+Rajasthan,Ajmer,"Ajmer, Rajasthan",26.4521,74.6387,3081,2017-10-26,2026-09-17,10,3249,168,94.83,11,High,1.0
+Rajasthan,Alwar,"Alwar, Rajasthan",27.5625,76.625,3079,2017-10-19,2026-09-17,10,3256,177,94.56,22,High,1.02
+Rajasthan,Banswara,"Banswara, Rajasthan",23.5411,74.4425,1214,2023-03-15,2026-09-16,4,1282,68,94.7,3,High,1.0
+Rajasthan,Baran,"Baran, Rajasthan",25.1,76.5167,1136,2023-06-20,2026-09-17,4,1186,50,95.78,5,High,1.0
+Rajasthan,Barmer,"Barmer, Rajasthan",25.7457,71.3921,1249,2023-03-13,2026-09-17,4,1285,36,97.2,3,High,1.0
+Rajasthan,Bharatpur,"Bharatpur, Rajasthan",27.2173,77.4901,1282,2023-02-02,2026-09-17,4,1324,42,96.83,4,High,1.0
+Rajasthan,Bhilwara,"Bhilwara, Rajasthan",25.3471,74.6408,1099,2023-05-16,2026-09-17,4,1221,122,90.01,13,High,1.0
+Rajasthan,Bhiwadi,"Bhiwadi, Rajasthan",28.2102,76.8606,3046,2017-10-16,2026-09-17,10,3259,213,93.46,15,High,1.27
+Rajasthan,Bikaner,"Bikaner, Rajasthan",28.0176,73.3149,1211,2023-03-13,2026-09-17,4,1285,74,94.24,12,High,1.0
+Rajasthan,Bundi,"Bundi, Rajasthan",25.4385,75.6373,1128,2023-05-16,2026-09-17,4,1221,93,92.38,5,High,1.0
+Rajasthan,Chittorgarh,"Chittorgarh, Rajasthan",24.8896,74.624,1171,2023-03-14,2026-09-17,4,1284,113,91.2,8,High,1.0
+Rajasthan,Churu,"Churu, Rajasthan",28.3041,74.9672,1194,2023-03-13,2026-09-17,4,1285,91,92.92,19,High,1.0
+Rajasthan,Dausa,"Dausa, Rajasthan",26.89,76.3358,1228,2023-03-13,2026-09-17,4,1285,57,95.56,4,High,1.0
+Rajasthan,Dholpur,"Dholpur, Rajasthan",26.6929,77.8797,1109,2023-03-13,2026-09-17,4,1285,176,86.3,17,High,1.0
+Rajasthan,Dungarpur,"Dungarpur, Rajasthan",23.8431,73.7147,872,2024-03-01,2026-09-17,3,931,59,93.66,5,High,1.0
+Rajasthan,Hanumangarh,"Hanumangarh, Rajasthan",29.5818,74.3294,1192,2023-03-13,2026-09-17,4,1285,93,92.76,10,High,1.0
+Rajasthan,Jaipur,"Jaipur, Rajasthan",26.9196,75.7878,3689,2016-01-02,2026-09-17,11,3912,223,94.3,40,High,3.53
+Rajasthan,Jaisalmer,"Jaisalmer, Rajasthan",26.9176,70.9039,1195,2023-05-16,2026-09-17,4,1221,26,97.87,3,High,1.0
+Rajasthan,Jalore,"Jalore, Rajasthan",25.35,72.62,1008,2023-11-14,2026-09-17,4,1039,31,97.02,3,High,1.0
+Rajasthan,Jhalawar,"Jhalawar, Rajasthan",24.5963,76.165,1250,2023-03-13,2026-09-17,4,1285,35,97.28,3,High,1.0
+Rajasthan,Jhunjhunu,"Jhunjhunu, Rajasthan",28.1256,75.398,1257,2023-03-13,2026-09-17,4,1285,28,97.82,3,High,1.0
+Rajasthan,Jodhpur,"Jodhpur, Rajasthan",26.2684,73.0059,3700,2016-01-01,2026-09-17,11,3913,213,94.56,16,High,2.29
+Rajasthan,Karauli,"Karauli, Rajasthan",26.4983,77.0276,1147,2023-03-13,2026-09-17,4,1285,138,89.26,6,High,1.0
+Rajasthan,Khairthal,"Khairthal, Rajasthan",27.8,76.64,51,2026-06-24,2026-09-17,1,86,35,59.3,10,Limited,1.0
+Rajasthan,Kota,"Kota, Rajasthan",25.1825,75.8391,3162,2017-10-24,2026-09-17,10,3251,89,97.26,14,High,1.8
+Rajasthan,Nagaur,"Nagaur, Rajasthan",27.202,73.7339,1152,2023-06-08,2026-09-17,4,1198,46,96.16,4,High,1.0
+Rajasthan,Pali,"Pali, Rajasthan",25.7728,73.3234,3076,2017-10-24,2026-09-17,10,3251,175,94.62,22,High,1.0
+Rajasthan,Rajsamand,"Rajsamand, Rajasthan",25.0714,73.8798,1206,2023-03-14,2026-09-17,4,1284,78,93.93,3,High,1.0
+Rajasthan,Sawai Madhopur,"Sawai Madhopur, Rajasthan",26.023,76.3441,1200,2023-03-13,2026-09-17,4,1285,85,93.39,13,High,1.0
+Rajasthan,Sikar,"Sikar, Rajasthan",27.6121,75.14,1253,2023-03-13,2026-09-17,4,1285,32,97.51,3,High,1.0
+Rajasthan,Sirohi,"Sirohi, Rajasthan",24.8884,72.8479,1161,2023-03-13,2026-09-17,4,1285,124,90.35,29,High,1.0
+Rajasthan,Sri Ganganagar,"Sri Ganganagar, Rajasthan",29.9201,73.875,1191,2023-03-13,2026-09-17,4,1285,94,92.68,4,High,1.0
+Rajasthan,Tonk,"Tonk, Rajasthan",26.1664,75.7882,1159,2023-03-13,2026-09-17,4,1285,126,90.19,12,High,1.0
+Rajasthan,Udaipur,"Udaipur, Rajasthan",24.5858,73.7135,3120,2017-11-04,2026-09-17,10,3240,120,96.3,8,High,1.0
+Sikkim,Gangtok,"Gangtok, Sikkim",27.3257,88.6122,1183,2022-04-07,2026-09-17,5,1625,442,72.8,26,High,1.0
+Tamil Nadu,Ariyalur,"Ariyalur, Tamil Nadu",11.1385,79.0756,883,2022-12-21,2025-12-15,4,1091,208,80.93,23,High,1.0
+Tamil Nadu,Chengalpattu,"Chengalpattu, Tamil Nadu",12.6918,79.9766,533,2022-08-13,2025-11-12,4,1188,655,44.87,116,High,1.0
+Tamil Nadu,Chennai,"Chennai, Tamil Nadu",13.0878,80.2785,3842,2016-01-01,2026-09-17,11,3913,71,98.19,14,High,5.0
+Tamil Nadu,Coimbatore,"Coimbatore, Tamil Nadu",11.0055,76.9661,1714,2019-06-14,2026-09-14,8,2650,936,64.68,241,High,1.27
+Tamil Nadu,Cuddalore,"Cuddalore, Tamil Nadu",11.7562,79.7669,1022,2023-03-14,2026-09-17,4,1284,262,79.6,92,High,1.54
+Tamil Nadu,Dindigul,"Dindigul, Tamil Nadu",10.369,77.9804,609,2022-09-13,2026-07-10,5,1397,788,43.59,346,High,1.0
+Tamil Nadu,Gummidipoondi,"Gummidipoondi, Tamil Nadu",13.41,80.11,1637,2021-01-06,2026-09-10,6,2074,437,78.93,57,High,1.0
+Tamil Nadu,Hosur,"Hosur, Tamil Nadu",12.7365,77.8326,532,2022-08-10,2025-11-13,3,1192,660,44.63,473,High,1.0
+Tamil Nadu,Kanchipuram,"Kanchipuram, Tamil Nadu",12.8352,79.7001,573,2022-10-27,2025-11-17,4,1118,545,51.25,119,High,1.0
+Tamil Nadu,Karur,"Karur, Tamil Nadu",10.9577,78.081,331,2024-10-09,2026-01-18,3,467,136,70.88,45,Medium,1.0
+Tamil Nadu,Madurai,"Madurai, Tamil Nadu",9.919,78.1195,454,2024-10-09,2026-08-06,3,667,213,68.07,42,High,1.0
+Tamil Nadu,Nagapattinam,"Nagapattinam, Tamil Nadu",10.7638,79.8431,281,2024-10-18,2026-02-08,3,479,198,58.66,22,Medium,1.0
+Tamil Nadu,Namakkal,"Namakkal, Tamil Nadu",11.2213,78.1652,109,2025-04-02,2025-11-11,1,224,115,48.66,43,Low,1.0
+Tamil Nadu,Ooty,"Ooty, Tamil Nadu",11.4134,76.6952,850,2022-08-27,2026-04-24,5,1337,487,63.58,77,High,1.0
+Tamil Nadu,Palkalaiperur,"Palkalaiperur, Tamil Nadu",10.68,78.74,700,2023-03-17,2025-12-05,3,995,295,70.35,35,High,1.0
+Tamil Nadu,Perundurai,"Perundurai, Tamil Nadu",11.2756,77.5879,329,2025-06-13,2026-06-23,2,376,47,87.5,5,Medium,1.0
+Tamil Nadu,Pudukottai,"Pudukottai, Tamil Nadu",10.3813,78.8214,400,2024-10-09,2026-02-10,3,490,90,81.63,21,High,1.0
+Tamil Nadu,Ramanathapuram,"Ramanathapuram, Tamil Nadu",9.3716,78.8308,1058,2022-08-09,2026-05-13,5,1374,316,77.0,76,High,1.0
+Tamil Nadu,Ranipet,"Ranipet, Tamil Nadu",12.9247,79.3333,220,2024-10-18,2025-10-31,2,379,159,58.05,24,Medium,1.0
+Tamil Nadu,Salem,"Salem, Tamil Nadu",11.6538,78.1554,641,2022-09-03,2026-01-08,5,1224,583,52.37,56,High,1.0
+Tamil Nadu,Thanjavur,"Thanjavur, Tamil Nadu",10.7852,79.1391,368,2024-10-09,2026-02-10,3,490,122,75.1,25,High,1.0
+Tamil Nadu,Thoothukudi,"Thoothukudi, Tamil Nadu",8.7674,78.1342,2009,2020-11-09,2026-09-14,7,2136,127,94.05,26,High,1.0
+Tamil Nadu,Tiruchirappalli,"Tiruchirappalli, Tamil Nadu",10.8155,78.6965,375,2023-12-21,2025-11-29,3,710,335,52.82,202,High,1.0
+Tamil Nadu,Tirunelveli,"Tirunelveli, Tamil Nadu",8.7274,77.6838,411,2024-08-12,2025-12-19,2,495,84,83.03,15,High,1.0
+Tamil Nadu,Tirupur,"Tirupur, Tamil Nadu",11.1154,77.3546,888,2022-08-27,2026-04-14,5,1327,439,66.92,85,High,1.0
+Tamil Nadu,Vellore,"Vellore, Tamil Nadu",12.9184,79.1325,555,2022-08-28,2025-12-09,4,1200,645,46.25,222,High,1.0
+Tamil Nadu,Virudhunagar,"Virudhunagar, Tamil Nadu",9.58,77.96,435,2024-03-02,2026-05-23,3,813,378,53.51,141,High,1.0
+Telangana,Hyderabad,"Hyderabad, Telangana",17.384,78.4564,3890,2016-01-01,2026-09-17,11,3913,23,99.41,4,High,7.49
+Tripura,Agartala,"Agartala, Tripura",23.8361,91.2794,1915,2020-11-09,2026-09-17,7,2139,224,89.53,12,High,1.17
+Uttar Pradesh,Agra,"Agra, Uttar Pradesh",27.1833,78.0167,3693,2016-01-01,2026-09-17,11,3913,220,94.38,9,High,3.33
+Uttar Pradesh,Baghpat,"Baghpat, Uttar Pradesh",28.9448,77.2186,2478,2018-08-02,2026-09-17,9,2969,491,83.46,170,High,1.0
+Uttar Pradesh,Baraut,"Baraut, Uttar Pradesh",29.102,77.2633,17,2026-08-14,2026-09-03,1,21,4,80.95,4,Limited,1.0
+Uttar Pradesh,Bareilly,"Bareilly, Uttar Pradesh",28.3668,79.4317,1522,2022-06-03,2026-09-17,5,1568,46,97.07,3,High,1.8
+Uttar Pradesh,Bulandshahr,"Bulandshahr, Uttar Pradesh",28.4039,77.8577,2901,2018-05-26,2026-09-17,9,3037,136,95.52,8,High,1.0
+Uttar Pradesh,Fatehpur sikri,"Fatehpur sikri, Uttar Pradesh",27.0937,77.66,52,2026-06-24,2026-09-15,1,84,32,61.9,29,Limited,1.0
+Uttar Pradesh,Firozabad,"Firozabad, Uttar Pradesh",27.1509,78.3978,1825,2021-07-19,2026-09-17,6,1887,62,96.71,3,High,1.68
+Uttar Pradesh,Gajraula,"Gajraula, Uttar Pradesh",28.8457,78.2396,46,2026-07-29,2026-09-17,1,51,5,90.2,4,Limited,1.0
+Uttar Pradesh,Ghaziabad,"Ghaziabad, Uttar Pradesh",28.6654,77.4391,3408,2017-05-03,2026-09-17,10,3425,17,99.5,3,High,3.24
+Uttar Pradesh,Gorakhpur,"Gorakhpur, Uttar Pradesh",26.76,83.37,1763,2021-07-01,2026-09-09,6,1897,134,92.94,5,High,1.0
+Uttar Pradesh,Greater Noida,"Greater Noida, Uttar Pradesh",28.4962,77.536,3023,2018-05-26,2026-09-17,9,3037,14,99.54,4,High,1.78
+Uttar Pradesh,Hapur,"Hapur, Uttar Pradesh",28.7298,77.7807,2595,2018-10-23,2026-09-17,9,2887,292,89.89,122,High,1.0
+Uttar Pradesh,Jhansi,"Jhansi, Uttar Pradesh",25.4589,78.5799,1553,2022-02-05,2026-09-17,5,1686,133,92.11,10,High,1.0
+Uttar Pradesh,Kanpur,"Kanpur, Uttar Pradesh",26.4652,80.3498,3737,2016-01-01,2026-09-17,11,3913,176,95.5,10,High,2.09
+Uttar Pradesh,Khora,"Khora, Uttar Pradesh",28.62,77.34,76,2026-06-24,2026-09-15,1,84,8,90.48,5,Limited,1.0
+Uttar Pradesh,Khurja,"Khurja, Uttar Pradesh",28.2538,77.8554,1412,2022-06-03,2026-09-17,5,1568,156,90.05,6,High,1.0
+Uttar Pradesh,Loni_Dehat,"Loni_Dehat, Uttar Pradesh",28.75,77.29,193,2019-03-06,2019-10-15,1,224,31,86.16,8,Medium,1.0
+Uttar Pradesh,Loni_Ghaziabad,"Loni_Ghaziabad, Uttar Pradesh",28.75,77.29,2,2019-10-16,2019-10-17,1,2,0,100.0,0,Limited,1.0
+Uttar Pradesh,Lucknow,"Lucknow, Uttar Pradesh",26.8393,80.9231,3841,2016-01-01,2026-09-17,11,3913,72,98.16,15,High,4.58
+Uttar Pradesh,Mathura,"Mathura, Uttar Pradesh",27.5035,77.6722,77,2026-06-16,2026-09-17,1,94,17,81.91,4,Limited,1.0
+Uttar Pradesh,Meerut,"Meerut, Uttar Pradesh",28.98,77.7064,2540,2019-07-03,2026-09-17,8,2634,94,96.43,86,High,2.74
+Uttar Pradesh,Modinagar,"Modinagar, Uttar Pradesh",28.83,77.58,59,2026-06-24,2026-09-17,1,86,27,68.6,5,Limited,1.0
+Uttar Pradesh,Moradabad,"Moradabad, Uttar Pradesh",28.8389,78.7768,2899,2017-09-21,2026-09-17,10,3284,385,88.28,111,High,3.69
+Uttar Pradesh,Muzaffarnagar,"Muzaffarnagar, Uttar Pradesh",29.4709,77.7033,2675,2018-06-29,2026-09-17,9,3003,328,89.08,82,High,1.0
+Uttar Pradesh,Noida,"Noida, Uttar Pradesh",28.58,77.33,3396,2017-05-04,2026-09-17,10,3424,28,99.18,6,High,3.21
+Uttar Pradesh,Pratapgarh,"Pratapgarh, Uttar Pradesh",25.9206,81.9963,1237,2023-03-13,2026-09-17,4,1285,48,96.26,4,High,1.0
+Uttar Pradesh,Prayagraj,"Prayagraj, Uttar Pradesh",25.4448,81.8432,1925,2021-06-03,2026-09-17,6,1933,8,99.59,2,High,2.82
+Uttar Pradesh,Raebareli,"Raebareli, Uttar Pradesh",26.2309,81.2331,102,2026-02-26,2026-09-17,1,204,102,50.0,18,Low,1.3
+Uttar Pradesh,Shamli,"Shamli, Uttar Pradesh",29.4497,77.3096,50,2026-07-22,2026-09-17,1,58,8,86.21,8,Limited,1.0
+Uttar Pradesh,Varanasi,"Varanasi, Uttar Pradesh",25.3167,83.0104,3652,2016-01-01,2026-09-17,11,3913,261,93.33,11,High,2.47
+Uttar Pradesh,Vrindavan,"Vrindavan, Uttar Pradesh",27.5811,77.6966,1774,2021-08-03,2026-09-17,6,1872,98,94.76,15,High,1.01
+Uttarakhand,Dehradun,"Dehradun, Uttarakhand",30.3244,78.0339,1339,2022-04-23,2026-09-17,5,1609,270,83.22,14,High,1.0
+Uttarakhand,Kashipur,"Kashipur, Uttarakhand",29.214,78.9569,973,2023-02-14,2026-08-20,4,1284,311,75.78,93,High,1.0
+Uttarakhand,Rishikesh,"Rishikesh, Uttarakhand",30.1078,78.2926,1166,2023-02-10,2026-09-17,4,1316,150,88.6,14,High,1.0
+West Bengal,Asansol,"Asansol, West Bengal",23.6833,86.9833,2927,2018-02-04,2026-09-17,9,3148,221,92.98,11,High,1.79
+West Bengal,Barrackpore,"Barrackpore, West Bengal",22.766,88.3634,949,2023-12-02,2026-09-17,4,1021,72,92.95,5,High,1.0
+West Bengal,Durgapur,"Durgapur, West Bengal",23.5158,87.308,2649,2016-09-25,2026-09-17,11,3645,996,72.67,513,High,1.52
+West Bengal,Haldia,"Haldia, West Bengal",22.0605,88.1098,3025,2016-01-01,2026-09-17,11,3913,888,77.31,326,High,1.0
+West Bengal,Howrah,"Howrah, West Bengal",22.5769,88.3186,3413,2016-07-05,2026-09-17,11,3727,314,91.57,88,High,2.9
+West Bengal,Kolkata,"Kolkata, West Bengal",22.5626,88.363,3500,2016-07-05,2026-09-17,11,3727,227,93.91,166,High,5.23
+West Bengal,Siliguri,"Siliguri, West Bengal",26.71,88.4285,2850,2018-02-08,2026-09-17,9,3144,294,90.65,13,High,1.0

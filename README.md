@@ -1,8 +1,8 @@
 # Abhishek Dewangan
 
-I spent about 4.5 years building and running my own ventures. Now I'm doing an M.Sc. in Data Science & Management at **IIM Amritsar and IIT Ropar (2025–27)** to get the structure and tools to do the same kind of work inside a larger organisation.
+I spent about 4.5 years building and running my own ventures. Now I'm doing an MS Data Science & Management at **IIM Amritsar and IIT Ropar (2025–27)** to get the structure and tools to do the same kind of work inside a larger organisation.
 
-I'm looking for **management roles in operations, business development, consulting, business analysis, and product or business strategy.** Fresher or 1–2 years' experience is fine. Remote or any city in India works.
+I'm looking for **management roles in operations, business development, consulting, product, marketing, strategy, and analytics.** Fresher or 1–2 years' experience is fine. Remote or any city in India works.
 
 This repo has the work I'd like you to look at, with management projects first.
 
@@ -10,7 +10,7 @@ This repo has the work I'd like you to look at, with management projects first.
 
 - **Mudra:** a SaaS algo-trading product. I held requirement-gathering sessions with 4 fund houses to decide what to build.
 - **Food Frenzy:** I mapped the order process end to end and found the bottlenecks, which made fulfilment 15% faster.
-- **Just PandP:** an app for which I built 10 PAN-India alliances. Users saved about 2 hours on average.
+- **Just PandP:** an app for which I built 10 PAN-India alliances. Users saved about 2 days on average.
 
 ## Management and strategy work
 

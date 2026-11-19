@@ -1,0 +1,10 @@
+# Core
+numpy
+opencv-python
+insightface
+onnxruntime          # CPU. If you have an NVIDIA GPU, replace with: onnxruntime-gpu
+
+# Coming in later days (safe to install now)
+scikit-learn         # threshold tuning, ROC curves
+matplotlib           # plots for the report
+tqdm                 # progress bars

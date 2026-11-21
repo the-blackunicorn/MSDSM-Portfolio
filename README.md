@@ -24,7 +24,7 @@ This repo has the work I'd like you to look at, with management projects first.
 | **John Deere: the driverless field** | Group strategy analysis of AI and autonomy in the machinery industry. | [Semester-3/SM](Semester-3/SM) |
 | **UPI usage and attitude study** | Group research design and analysis on why users pick or switch UPI apps. | [Semester-3/BRM](Semester-3/BRM) |
 | **Marketing head's conundrum** | Can the marketing budget be halved with targets intact? Discriminant analysis and optimisation in R. | [Semester-3/PAR-Marketing_Conundrum](Semester-3/PAR-Marketing_Conundrum) |
-| **Testing marketing hypotheses** | Six sales beliefs tested on 1,000 past deals. Two hold, two lack evidence, two are backwards. | [Semester-3/PAR-Testing%20Marketing%20Hypothesis](Semester-3/PAR-Testing%20Marketing%20Hypothesis) |
+| **Testing marketing hypotheses** | Six sales beliefs tested on 1,000 past deals. Two hold, two lack evidence, two are backwards. | [Semester-3/PAR-Testing Marketing Hypothesis](Semester-3/PAR-Testing%20Marketing%20Hypothesis) |
 | **Equifax: ethical risks in data and AI** | Group report applying ethics frameworks to the 2017 breach and the 2022 scoring error, with five recommendations. | [Semester-3/DPE](Semester-3/DPE) |
 | **Collections recovery analysis** | Is the 11% month-on-month improvement real? | [Task_CR repo](https://github.com/the-blackunicorn/Task_CR) |
 

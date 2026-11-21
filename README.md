@@ -25,6 +25,7 @@ This repo has the work I'd like you to look at, with management projects first.
 | **UPI usage and attitude study** | Group research design and analysis on why users pick or switch UPI apps. | [Semester-3/BRM](Semester-3/BRM) |
 | **Marketing head's conundrum** | Can the marketing budget be halved with targets intact? Discriminant analysis and optimisation in R. | [Semester-3/PAR-Marketing_Conundrum](Semester-3/PAR-Marketing_Conundrum) |
 | **Testing marketing hypotheses** | Six sales beliefs tested on 1,000 past deals. Two hold, two lack evidence, two are backwards. | [Semester-3/PAR-Testing%20Marketing%20Hypothesis](Semester-3/PAR-Testing%20Marketing%20Hypothesis) |
+| **Equifax: ethical risks in data and AI** | Group report applying ethics frameworks to the 2017 breach and the 2022 scoring error, with five recommendations. | [Semester-3/DPE](Semester-3/DPE) |
 | **Collections recovery analysis** | Is the 11% month-on-month improvement real? | [Task_CR repo](https://github.com/the-blackunicorn/Task_CR) |
 
 ## Analytics and data work
@@ -37,6 +38,7 @@ This repo has the work I'd like you to look at, with management projects first.
 | **Portfolio optimization** | Five-stock optimization across four time windows in Excel Solver. | [Semester-3/PAR-Portfolio-Optimization](Semester-3/PAR-Portfolio-Optimization) |
 | **Customer churn prediction** | Logistic regression in R: AUC 0.72, 3.0x lift in the riskiest 10%. | [Semester-3/PAR-Churn](Semester-3/PAR-Churn) |
 | **Hospital package pricing** | Regression to quote fixed prices at admission, with a safety buffer. | [Semester-3/PAR-Pricing](Semester-3/PAR-Pricing) |
+| **Campaign analytics in R** | ANOVA, regression, classification and a budgeted target list on a 6,000-customer campaign dataset. Group project. | [Semester-3/PAR-GP](Semester-3/PAR-GP) |
 | **Aadhaar biometric activity analysis** | Cleaning and analysing public Aadhaar data by state and pincode. | [Semester-2/DMBA-Aadhaar-Analysis](Semester-2/DMBA-Aadhaar-Analysis) |
 
 ## Technical builds
